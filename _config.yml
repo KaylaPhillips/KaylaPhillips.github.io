@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://KaylaPhillips.github.io
+title: KaylaPhillips
+tagline: A log of everyday life and advice 
+description: This blog contains many of my own life experiences and how I managed through them.
+paginate: 7
